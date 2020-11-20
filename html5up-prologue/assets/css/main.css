@@ -2631,3 +2631,9 @@ input, select, textarea {
 				}
 
 	}
+
+	.whpp-icon {
+		height:2rem;
+		width:2rem;
+		vertical-align: bottom;
+	}
